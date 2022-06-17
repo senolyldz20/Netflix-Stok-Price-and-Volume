@@ -5,7 +5,7 @@ import matplotlib.dates as mpl_dates
 
 #2-Verilerin okunması ve gözlenmesi
 netflix_df = pd.read_csv(r"C:\Users\senol\PycharmProjects\DataCamp Project\Mine\Netflix-02\data\Netflix.csv")
-print(netflix_df.head())                # erilerin ilk 5 satırlarını çağırmış olduk.
+print(netflix_df.head())                # verilerin ilk 5 satırlarını çağırmış olduk.
 
 
 #3-Verilerin Filtrelenemesi
